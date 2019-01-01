@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/clover-kachikachi-wr /usr/share/games/nes/kachikachi/CLV-H-EJLOC/Teenage_Mutant_Ninja_Turtles_2.nes.7z --guest-overscan-dimensions 0,0,9,3 --initial-fadein-durations 10,2 --volume 75 --enable-armet
+Path=/var/lib/clover/profiles/0/CLV-H-EJLOC
+Name=Teenage Mutant Ninja Turtles II: The Arcade Game
+Icon=/usr/share/games/nes/kachikachi/CLV-H-EJLOC/CLV-H-EJLOC.png
+
+[X-CLOVER Game]
+Code=CLV-H-EJLOC
+TestID=777
+ID=0
+Players=2
+Simultaneous=1
+ReleaseDate=1990-12-01
+SaveCount=0
+SortRawTitle=teenage mutant ninja turtles ii: the arcade game
+SortRawPublisher=ULTRA GAMES
+Copyright=hakchi2 ©2017 Alexey 'Cluster' Avdyukhin

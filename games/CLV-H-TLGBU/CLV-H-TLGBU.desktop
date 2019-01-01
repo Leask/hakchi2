@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/clover-kachikachi-wr /usr/share/games/nes/kachikachi/CLV-H-TLGBU/Tiny_Toon_Adventures_2_Trouble_in_Wackyland.nes.7z --guest-overscan-dimensions 0,0,9,3 --initial-fadein-durations 10,2 --volume 75 --enable-armet
+Path=/var/lib/clover/profiles/0/CLV-H-TLGBU
+Name=Tiny Toon Adventures 2: Trouble in Wackyland
+Icon=/usr/share/games/nes/kachikachi/CLV-H-TLGBU/CLV-H-TLGBU.png
+
+[X-CLOVER Game]
+Code=CLV-H-TLGBU
+TestID=777
+ID=0
+Players=2
+Simultaneous=1
+ReleaseDate=1993-04-01
+SaveCount=0
+SortRawTitle=tiny toon adventures 2: trouble in wackyland
+SortRawPublisher=KONAMI
+Copyright=hakchi2 ©2017 Alexey 'Cluster' Avdyukhin

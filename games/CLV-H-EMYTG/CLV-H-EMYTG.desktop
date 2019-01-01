@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/clover-kachikachi-wr /usr/share/games/nes/kachikachi/CLV-H-EMYTG/Mega_Man.nes.7z --guest-overscan-dimensions 0,0,9,3 --initial-fadein-durations 10,2 --volume 75 --enable-armet
+Path=/var/lib/clover/profiles/0/CLV-H-EMYTG
+Name=Mega Man
+Icon=/usr/share/games/nes/kachikachi/CLV-H-EMYTG/CLV-H-EMYTG.png
+
+[X-CLOVER Game]
+Code=CLV-H-EMYTG
+TestID=777
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=1987-12-01
+SaveCount=0
+SortRawTitle=mega man
+SortRawPublisher=CAPCOM
+Copyright=hakchi2 ©2017 Alexey 'Cluster' Avdyukhin

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/clover-kachikachi-wr /usr/share/games/nes/kachikachi/CLV-H-OKFWV/Double_Dragon_3_The_Sacred_Stones.nes.7z --guest-overscan-dimensions 0,0,9,3 --initial-fadein-durations 10,2 --volume 75 --enable-armet
+Path=/var/lib/clover/profiles/0/CLV-H-OKFWV
+Name=Double Dragon III: The Sacred Stones
+Icon=/usr/share/games/nes/kachikachi/CLV-H-OKFWV/CLV-H-OKFWV.png
+
+[X-CLOVER Game]
+Code=CLV-H-OKFWV
+TestID=777
+ID=0
+Players=2
+Simultaneous=1
+ReleaseDate=1991-02-01
+SaveCount=0
+SortRawTitle=double dragon iii: the sacred stones
+SortRawPublisher=ACCLAIM
+Copyright=hakchi2 ©2017 Alexey 'Cluster' Avdyukhin

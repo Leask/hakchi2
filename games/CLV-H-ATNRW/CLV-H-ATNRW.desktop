@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/clover-kachikachi-wr /usr/share/games/nes/kachikachi/CLV-H-ATNRW/F_1_Race.nes.7z --guest-overscan-dimensions 0,0,9,3 --initial-fadein-durations 10,2 --volume 75 --enable-armet
+Path=/var/lib/clover/profiles/0/CLV-H-ATNRW
+Name=F-1 Race
+Icon=/usr/share/games/nes/kachikachi/CLV-H-ATNRW/CLV-H-ATNRW.png
+
+[X-CLOVER Game]
+Code=CLV-H-ATNRW
+TestID=777
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=1900-01-01
+SaveCount=0
+SortRawTitle=f-1 race
+SortRawPublisher=UNKNOWN
+Copyright=hakchi2 ©2017 Alexey 'Cluster' Avdyukhin

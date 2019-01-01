@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/clover-kachikachi-wr /usr/share/games/nes/kachikachi/CLV-H-UONPO/Journey_to_Silius.nes.7z --guest-overscan-dimensions 0,0,9,3 --initial-fadein-durations 10,2 --volume 75 --enable-armet
+Path=/var/lib/clover/profiles/0/CLV-H-UONPO
+Name=Journey to Silius
+Icon=/usr/share/games/nes/kachikachi/CLV-H-UONPO/CLV-H-UONPO.png
+
+[X-CLOVER Game]
+Code=CLV-H-UONPO
+TestID=777
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=1990-09-01
+SaveCount=0
+SortRawTitle=journey to silius
+SortRawPublisher=SUNSOFT
+Copyright=hakchi2 ©2017 Alexey 'Cluster' Avdyukhin

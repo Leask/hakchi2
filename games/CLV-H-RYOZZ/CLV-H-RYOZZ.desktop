@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/clover-kachikachi-wr /usr/share/games/nes/kachikachi/CLV-H-RYOZZ/Hudson_s_Adventure_Island_3.nes.7z --guest-overscan-dimensions 0,0,9,3 --initial-fadein-durations 10,2 --volume 75 --enable-armet
+Path=/var/lib/clover/profiles/0/CLV-H-RYOZZ
+Name=Adventure Island III
+Icon=/usr/share/games/nes/kachikachi/CLV-H-RYOZZ/CLV-H-RYOZZ.png
+
+[X-CLOVER Game]
+Code=CLV-H-RYOZZ
+TestID=777
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=1992-09-01
+SaveCount=0
+SortRawTitle=adventure island iii
+SortRawPublisher=HUDSON SOFT
+Copyright=hakchi2 ©2017 Alexey 'Cluster' Avdyukhin

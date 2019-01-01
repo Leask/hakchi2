@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/clover-kachikachi-wr /usr/share/games/nes/kachikachi/CLV-H-GNGZI/Excitebike.nes.7z --guest-overscan-dimensions 0,0,9,3 --initial-fadein-durations 10,2 --volume 75 --enable-armet
+Path=/var/lib/clover/profiles/0/CLV-H-GNGZI
+Name=Excitebike
+Icon=/usr/share/games/nes/kachikachi/CLV-H-GNGZI/CLV-H-GNGZI.png
+
+[X-CLOVER Game]
+Code=CLV-H-GNGZI
+TestID=777
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=1985-10-18
+SaveCount=0
+SortRawTitle=excitebike
+SortRawPublisher=NINTENDO
+Copyright=hakchi2 ©2017 Alexey 'Cluster' Avdyukhin

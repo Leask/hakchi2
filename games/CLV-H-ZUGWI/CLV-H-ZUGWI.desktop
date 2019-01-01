@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/clover-kachikachi-wr /usr/share/games/nes/kachikachi/CLV-H-ZUGWI/Teenage_Mutant_Ninja_Turtles_3.nes.7z --guest-overscan-dimensions 0,0,9,3 --initial-fadein-durations 10,2 --volume 75 --enable-armet
+Path=/var/lib/clover/profiles/0/CLV-H-ZUGWI
+Name=Teenage Mutant Ninja Turtles III: The Manhattan Project
+Icon=/usr/share/games/nes/kachikachi/CLV-H-ZUGWI/CLV-H-ZUGWI.png
+
+[X-CLOVER Game]
+Code=CLV-H-ZUGWI
+TestID=777
+ID=0
+Players=2
+Simultaneous=1
+ReleaseDate=1992-02-01
+SaveCount=0
+SortRawTitle=teenage mutant ninja turtles iii: the manhattan project
+SortRawPublisher=KONAMI
+Copyright=hakchi2 ©2017 Alexey 'Cluster' Avdyukhin

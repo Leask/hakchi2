@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/clover-kachikachi-wr /usr/share/games/nes/kachikachi/CLV-H-SCEDW/Super_Mario_Bros.nes.7z --guest-overscan-dimensions 0,0,9,3 --initial-fadein-durations 10,2 --volume 75 --enable-armet
+Path=/var/lib/clover/profiles/0/CLV-H-SCEDW
+Name=Super Mario Bros.
+Icon=/usr/share/games/nes/kachikachi/CLV-H-SCEDW/CLV-H-SCEDW.png
+
+[X-CLOVER Game]
+Code=CLV-H-SCEDW
+TestID=777
+ID=0
+Players=2
+Simultaneous=1
+ReleaseDate=1987-05-15
+SaveCount=0
+SortRawTitle=super mario bros.
+SortRawPublisher=NINTENDO
+Copyright=hakchi2 ©2017 Alexey 'Cluster' Avdyukhin

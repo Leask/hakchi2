@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/clover-kachikachi-wr /usr/share/games/nes/kachikachi/CLV-H-LSFTO/1943.nes.7z --guest-overscan-dimensions 0,0,9,3 --initial-fadein-durations 10,2 --volume 75 --enable-armet
+Path=/var/lib/clover/profiles/0/CLV-H-LSFTO
+Name=1943: The Battle of Midway
+Icon=/usr/share/games/nes/kachikachi/CLV-H-LSFTO/CLV-H-LSFTO.png
+
+[X-CLOVER Game]
+Code=CLV-H-LSFTO
+TestID=777
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=1988-10-01
+SaveCount=0
+SortRawTitle=1943: the battle of midway
+SortRawPublisher=CAPCOM
+Copyright=hakchi2 ©2017 Alexey 'Cluster' Avdyukhin

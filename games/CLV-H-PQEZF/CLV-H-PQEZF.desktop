@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/clover-kachikachi-wr /usr/share/games/nes/kachikachi/CLV-H-PQEZF/Mega_Man_3.nes.7z --guest-overscan-dimensions 0,0,9,3 --initial-fadein-durations 10,2 --volume 75 --enable-armet
+Path=/var/lib/clover/profiles/0/CLV-H-PQEZF
+Name=Mega Man 3
+Icon=/usr/share/games/nes/kachikachi/CLV-H-PQEZF/CLV-H-PQEZF.png
+
+[X-CLOVER Game]
+Code=CLV-H-PQEZF
+TestID=777
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=1990-11-01
+SaveCount=0
+SortRawTitle=mega man 3
+SortRawPublisher=CAPCOM
+Copyright=hakchi2 ©2017 Alexey 'Cluster' Avdyukhin

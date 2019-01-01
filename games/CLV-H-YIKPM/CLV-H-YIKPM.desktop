@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/clover-kachikachi-wr /usr/share/games/nes/kachikachi/CLV-H-YIKPM/Felix_the_Cat.nes.7z --guest-overscan-dimensions 0,0,9,3 --initial-fadein-durations 10,2 --volume 75 --enable-armet
+Path=/var/lib/clover/profiles/0/CLV-H-YIKPM
+Name=Felix the Cat
+Icon=/usr/share/games/nes/kachikachi/CLV-H-YIKPM/CLV-H-YIKPM.png
+
+[X-CLOVER Game]
+Code=CLV-H-YIKPM
+TestID=777
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=1992-10-01
+SaveCount=0
+SortRawTitle=felix the cat
+SortRawPublisher=HUDSON SOFT
+Copyright=hakchi2 ©2017 Alexey 'Cluster' Avdyukhin
